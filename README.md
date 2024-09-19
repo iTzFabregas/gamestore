@@ -1,11 +1,10 @@
 <kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.pt_br.md)</kbd>
-# Projeto de Desenvolvimento da GameStore
+# GameStore Development Project
 | Collaborators    | 
 | -------- |
 | [iTzFabregas (Fabrício Sampaio)](https://github.com/iTzFabregas) | 
 | [artP2 (Arthur Pin)](https://github.com/artP2) | 
 | [rubenszinho (Samuel Rubens)](https://github.com/rubenszinho) |
-# GameStore Development Project
 ### Requirements
 The initial requirements were provided in the task and include the existence of two types of users (Customers and Administrators), product and service management, a shopping cart, and the implementation of a specific functionality for the store.
 ### Project Description
