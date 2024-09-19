@@ -32,7 +32,7 @@ Credenciais: **email:** admin@admin.com, **senha:** admin
 A seguir, estão capturas de tela do projeto GameStore em suas versões nos temas claro e escuro.
 #### Tema Escuro
 1. **Adicionar Jogo (Admin)**
-   ![Adicionar Jogo (Admin) - Tema Escuro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/dark/admin-game-add.html-dark.png)
+   ![Adicionar Jogo (Admin) - Tema Escuro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/dark/admin-game-add-dark.png)
 2. **Categoria**
    ![Categoria - Tema Escuro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/dark/category-dark.png)
 3. **Editar Perfil**
@@ -53,7 +53,7 @@ A seguir, estão capturas de tela do projeto GameStore em suas versões nos tema
     ![Perfil do Usuário - Tema Escuro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/dark/user-profile-dark.png)
 #### Tema Claro
 1. **Adicionar Jogo (Admin)**
-   ![Adicionar Jogo (Admin) - Tema Claro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/light/admin-game-add.html.png)
+   ![Adicionar Jogo (Admin) - Tema Claro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/light/admin-game-add.png)
 2. **Categoria**
    ![Categoria - Tema Claro](https://raw.githubusercontent.com/rubenszinho/gamestore/develop/public/mockup/light/category.png)
 3. **Editar Perfil**
